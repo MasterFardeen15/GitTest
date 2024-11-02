@@ -12,3 +12,4 @@ while True:
     message = ('Thank you for connecting')
     c.send(message.encode())
     c.close()
+#close
